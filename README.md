@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Serhan.
+#
+
+<img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="dotnet logo" /><img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp logo" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" alt="azure logo" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs logo" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" alt="mssql logo" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="photoshop logo" />
 
 <!--
 **serhanaltug/serhanaltug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
